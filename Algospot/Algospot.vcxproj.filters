@@ -63,5 +63,14 @@
     <ClCompile Include="19_ITES_S.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="21_Traversal_S.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="21_Fortress.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="23_RunningMedian_S.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
